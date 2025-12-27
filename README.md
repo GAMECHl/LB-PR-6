@@ -9,5 +9,7 @@
 
 #### Створюємо проект та налаштовуємо віртуальне оточення. Встановюємо необхідні бібліотеки командою  `` pip install -r requirements.txt ``:
 
-![0](https://github.com/GAMECHl/LB-PR-5/blob/main/0.png)
+#### Далі генеруємо та зберегаємо три тестові полігоні з різною кількостю вершин: N = 10, N = 50, N = 100.
+
+![polygon_10_vertices]([https://github.com/GAMECHl/LB-PR-6/blob/main/images/polygon_10_vertices.png])
 #### Рис. 1 - Створенний ноутбук
