@@ -12,4 +12,11 @@
 #### Далі генеруємо та зберегаємо три тестові полігоні з різною кількостю вершин: N = 10, N = 50, N = 100.
 
 ![polygon_10_vertices](https://github.com/GAMECHl/LB-PR-6/blob/main/images/polygon_10_vertices.png)
-#### Рис. 1 - Створенний ноутбук
+#### Рис. 1 - Полігон 10 вершин
+
+![polygon_50_vertices](https://github.com/GAMECHl/LB-PR-6/blob/main/images/polygon_50_vertices.png)
+#### Рис. 2 - Полігон 50 вершин
+
+![polygon_100_vertices](https://github.com/GAMECHl/LB-PR-6/blob/main/images/polygon_100_vertices.png)
+#### Рис. 3 - Полігон 100 вершин
+
